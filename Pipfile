@@ -5,8 +5,10 @@ name = "pypi"
 
 [packages]
 pandas = "*"
+sklearn = "*"
 
 [dev-packages]
+twine = "*"
 
 [requires]
 python_version = "3.8"
